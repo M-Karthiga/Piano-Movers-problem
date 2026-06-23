@@ -2,7 +2,7 @@
 
 > A stochastic multi-agent simulation of cooperative cargo transport, inspired by how real ant colonies navigate large objects through confined environments.
 
-![Simulation Demo]((https://drive.google.com/file/d/114XtbaE0PhLkrdEmfpdR2fAh-z3P28cS/view?usp=sharing))
+<img width="871" height="606" alt="image" src="https://github.com/user-attachments/assets/c7363fe8-b434-4d54-8be6-40e9837c002a" />
 
 ---
 
