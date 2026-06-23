@@ -95,13 +95,14 @@ The notebook contains:
 
 ---
 
-## Results
+## Results   [Final Simulation link ](https://drive.google.com/file/d/114XtbaE0PhLkrdEmfpdR2fAh-z3P28cS/view?usp=sharing)
 
 - Cargo successfully navigates narrow corridors through emergent collective steering
 - Arrival time scales quadratically with slope angle: T(θ) = 5.89 + 0.025θ + 0.00029θ², R² = 0.994
 - Heavier cargo recruits a higher mean puller fraction to compensate
 - Phase portraits confirm Hopf bifurcation structure: small groups exhibit random-walk dynamics, large groups show persistent directed motion
- [Final Simulation link ](https://drive.google.com/file/d/114XtbaE0PhLkrdEmfpdR2fAh-z3P28cS/view?usp=sharing)
+ 
+
 ### Known Limitations
 
 - **Wall tunneling** under Gillespie time evolution when drift velocity is high and the stochastic timestep is large
